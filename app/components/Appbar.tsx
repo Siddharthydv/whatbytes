@@ -1,7 +1,7 @@
 'use client';
 
 import { Button } from '@/components/ui/button';
-import { Bell, Menu, UserCircle } from 'lucide-react';
+import { Bell, UserCircle } from 'lucide-react';
 
 export default function AppBar() {
   return (
