@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Dashboard from "./components/dashboard";
 import AppBar from "./components/Appbar";
 import Navbar from "./components/Navbar";

@@ -1,7 +1,7 @@
 'use client';
 
 import { JSX, useState } from 'react';
-import { Home, LayoutDashboard, Settings, Menu, X } from 'lucide-react';
+import { Home, LayoutDashboard, Settings, X } from 'lucide-react';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 

@@ -15,7 +15,7 @@ export default function Dashboard() {
   const [questionsSolved, setQuestionsSolved] = useState(10);
   const [modalOpen, setModalOpen] = useState(false);
 
-  const percentileData = [{ name: 'Your Score', value: percentile, fill: '#6366F1' }];
+//   const percentileData = [{ name: 'Your Score', value: percentile, fill: '#6366F1' }];
 
   const comparisonData = [
     { name: '10%', value: 10 },
