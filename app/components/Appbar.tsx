@@ -8,7 +8,7 @@ export default function AppBar() {
     <header className="bg-white shadow-md px-6 py-4 flex justify-between items-center rounded-lg">
       {/* Left - Logo & Title */}
       <div className="flex items-center gap-3">
-        <Menu size={28} className="text-gray-700 cursor-pointer md:hidden" />
+        {/* <Menu size={28} className="text-gray-700 cursor-pointer md:hidden" /> */}
         <h1 className="text-2xl font-bold text-gray-900">WhatBytes</h1>
       </div>
 
